@@ -105,3 +105,5 @@ def game_loop():
         snake_head.append(x1)
         snake_head.append(y1)
         snake_list.append
+
+#this code is ready for works....
